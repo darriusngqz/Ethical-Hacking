@@ -1,7 +1,7 @@
 # Ethical Hacking – Enterprise Network Penetration Testing
 
 ## Overview
-This repository documents an ethical hacking project conducted as part of formal coursework in penetration testing. The assignment simulates a real-world attack against a small Active Directory–based corporate network in a controlled laboratory environment. The objective was to demonstrate a full attack lifecycle, from initial access to post-exploitation and persistence, while analysing the security weaknesses that enabled each stage of the compromise. :contentReference[oaicite:2]{index=2}
+This repository documents an ethical hacking project conducted as part of formal coursework in penetration testing. The assignment simulates a real-world attack against a small Active Directory–based corporate network in a controlled laboratory environment. The objective was to demonstrate a full attack lifecycle, from initial access to post-exploitation and persistence, while analysing the security weaknesses that enabled each stage of the compromise. 
 
 ---
 
